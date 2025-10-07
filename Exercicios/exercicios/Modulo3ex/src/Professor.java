@@ -3,6 +3,9 @@ public class Professor {
     private int idade;
     private String tipo;
 
+    public Professor(int i){
+        idade = i;
+    }
     public String getNome() {
         return nome;
     }
