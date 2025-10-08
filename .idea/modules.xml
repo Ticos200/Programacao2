@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicios/Classes.iml" filepath="$PROJECT_DIR$/Exercicios/exercicios/Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Ficha03/Ficha03.iml" filepath="$PROJECT_DIR$/Exercicios/Ficha03/Ficha03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Ficha04/Ficha04.iml" filepath="$PROJECT_DIR$/Exercicios/Ficha04/Ficha04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicios/Livro/Livro.iml" filepath="$PROJECT_DIR$/Exercicios/exercicios/Livro/Livro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programacao2.iml" filepath="$PROJECT_DIR$/Programacao2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/exercicios/Modulo3ex/srV.iml" filepath="$PROJECT_DIR$/Exercicios/exercicios/Modulo3ex/srV.iml" />
     </modules>
