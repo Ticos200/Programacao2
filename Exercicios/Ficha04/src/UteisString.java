@@ -50,4 +50,14 @@ public class UteisString {
         }
         return true;
     }
+    public int contarSubstring(String input) {
+        int cont = 0;
+        int index = 0;
+        while ((index = input.indexOf(input, index)) != -1) {
+            cont++;
+            index += input.length();
+        }
+        System.out.println("Onúmero de substring é "+ cont);
+        return cont;
+}
 }
